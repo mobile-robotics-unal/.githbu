@@ -4,7 +4,7 @@ Here is a collection on the work done during the course mobile robotics 2024-1 a
 
 ## Labs
 1. Lab 1 (Kobuki): [kobuki first steps](https://github.com/mobile-robotics-unal/kobuki-first-steps) - Lab 1 (EV3):[ev3 first steps](https://github.com/mobile-robotics-unal/ev3-first-stepss)
-2. Lab2: [intro2ROS](intro2ROS)
+2. Lab2 (a&b): [intro2ROS](intro2ROS) Lab2 (sensors): [Sensores e incertidumbre](https://github.com/mobile-robotics-unal/Laboratory-Sensors-and-uncertainty)
 3. Lab3: [Navigation](https://github.com/mobile-robotics-unal/lab3-navigation)
 <!--
 
