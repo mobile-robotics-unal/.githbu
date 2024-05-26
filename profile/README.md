@@ -1,6 +1,6 @@
 ## Mobile Robotics UNAL
 
-Here is a collection on the work done during the course mobile robotics 2024-1 at Colombia's National University 
+Here is a collection on the work done during the course *Fundamentals of Mobile Robotics* 🤖⚙ 2024-1 at *Universidad Nacional de Colombia (National University of Colombia)*  📚✏📐📏
 
 ## Labs
 1. Lab 1 (Kobuki) (English): [kobuki first steps](https://github.com/mobile-robotics-unal/kobuki-first-steps) - Lab 1 (EV3) (English): [ev3 first steps](https://github.com/mobile-robotics-unal/ev3-first-steps)
