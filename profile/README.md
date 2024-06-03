@@ -7,7 +7,8 @@ Here is a collection on the work done during the course *Fundamentals of Mobile 
 2. Lab2 (a&b) (English): [intro2ROS](https://github.com/mobile-robotics-unal/intro2ROS) -  Lab2 (sensors) (Spanish): [Sensores e incertidumbre](https://github.com/mobile-robotics-unal/Laboratory-Sensors-and-uncertainty)
 3. Lab3 (Spanish): [Navigation](https://github.com/mobile-robotics-unal/lab3-navigation)
 4. Homework 2 (Spanish): [Homework2](https://github.com/mobile-robotics-unal/Tarea-2-Navegaci-n-por-planeaci-n)
-5. Simulación Kobuki - CoppeliaSim : [Comppelia sim simulation](https://github.com/mobile-robotics-unal/matlab-coppelia-simulation)
+5. Lab Humanoid robots (Spanish): [Lab_USabana](https://github.com/mobile-robotics-unal/humanoid-robots-NAO)
+6. Simulación Kobuki - CoppeliaSim : [Comppelia sim simulation](https://github.com/mobile-robotics-unal/matlab-coppelia-simulation)
 
 <!--
 
